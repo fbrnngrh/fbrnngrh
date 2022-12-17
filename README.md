@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fbrnngrh/fbrnngrh/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
