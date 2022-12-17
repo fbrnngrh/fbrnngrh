@@ -11,9 +11,6 @@
 
 ###
 
-- 🌱 I’m currently learning **Framework Javascript like ReactJS,NextJs,VueJS, And ExpressJs**
-
-- 📫 How to reach me **fbrnngrh@gmail.com**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -72,6 +69,12 @@
 </div>
 
 ###
+
+
+- 🌱 I’m currently learning **Framework Javascript like ReactJS,NextJs,VueJS, And ExpressJs**
+
+- 📫 How to reach me **fbrnngrh@gmail.com**
+
 
 <p align="left">Febrian Bayu Nugroho is a fullstack web developer with expertise in both front-end and back-end development. They have a strong understanding of HTML, CSS, JavaScript, and various web development frameworks and libraries, and are skilled in creating dynamic, responsive websites and web applications. With their strong problem-solving skills and attention to detail, Febrian is able to effectively analyze and implement solutions for various web development challenges. In addition to their technical skills, Febrian is also a team player with excellent communication and collaboration abilities.</p>
 
