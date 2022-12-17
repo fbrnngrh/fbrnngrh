@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! My name is Febrian Bayu Nugroho and I'm a Fullstack Web Developer, from Indonesia</h2>
 
-- 🌱 I’m currently learning **Framework Javascript like ReactJS,NextJs,VueJS, And ExpressJs**
 
-- 📫 How to reach me **fbrnngrh@gmail.com**
 
 ###
 
@@ -12,6 +10,10 @@
 </div>
 
 ###
+
+- 🌱 I’m currently learning **Framework Javascript like ReactJS,NextJs,VueJS, And ExpressJs**
+
+- 📫 How to reach me **fbrnngrh@gmail.com**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
