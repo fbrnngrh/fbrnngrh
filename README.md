@@ -64,8 +64,8 @@
 
 ###
 
-<div align="center" style = "border-radius: 50%;">
-  <img height="400" src="https://media.licdn.com/dms/image/C4E03AQHB7ZgpL8zkVQ/profile-displayphoto-shrink_800_800/0/1655610203810?e=1676505600&v=beta&t=qaebwigSbV83oTNBe9vxaUDF6idbYlgGcBjFKf1uprA"  />
+<div align="center" >
+  <img style = "border-radius: 50%;" height="400" src="https://media.licdn.com/dms/image/C4E03AQHB7ZgpL8zkVQ/profile-displayphoto-shrink_800_800/0/1655610203810?e=1676505600&v=beta&t=qaebwigSbV83oTNBe9vxaUDF6idbYlgGcBjFKf1uprA"  />
 </div>
 
 ###
