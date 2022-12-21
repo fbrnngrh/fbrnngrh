@@ -39,5 +39,9 @@
   <img src="https://profile-counter.glitch.me/fbrnngrh/count.svg?"  />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
