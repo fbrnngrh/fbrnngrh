@@ -1,8 +1,11 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Febrian Bayu Nugroho</h1>
-<h3 align="center">A passionate frontend developer and IT Enthusiast from Indonesia</h3>
+<h3 align="center">A passionate frontend developer and IT Enthusiast from Indonesia</h3></br>
+<h3 align="left"> 📫 How to reach me : </h3>
+<p><a href="">fbrnngrh@gmail.com</p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fbrnngrh2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fbrnngrh2" /></a></p><br><br>
+
 
 
 ## 🌐 Socials:
@@ -32,7 +35,9 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fbrnngrh&icon=6&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/fbrnngrh/count.svg?"  />
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
