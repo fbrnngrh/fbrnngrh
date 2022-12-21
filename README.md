@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Febrian Bayu Nugroho</h1>
 <h3 align="center">A passionate frontend developer and IT Enthusiast from Indonesia</h3></br>
 <h3 align="left"> 📫 How to reach me : </h3>
-<p><a href="">fbrnngrh@gmail.com</p>
+<p>fbrnngrh@gmail.com</p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fbrnngrh2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fbrnngrh2" /></a></p><br><br>
 
